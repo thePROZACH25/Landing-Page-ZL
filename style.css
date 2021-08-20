@@ -6,5 +6,7 @@
 .banner {
     background-color: blue;
     height: 100vh;
-
+    background-image: url('desktop/image-header.jpg');
+    background-position: center;
+    background-size: cover;
 }

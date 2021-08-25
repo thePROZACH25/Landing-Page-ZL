@@ -79,6 +79,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: #FFFCF9;
 }
 
 .section1 .text-container {
@@ -174,7 +175,7 @@
 }
 
 .testimonials h1 {
-  color: #a0a1a2;
+  color: #FFFCF9;
   font-size: 18px;
   margin-bottom: 40px;
 }
